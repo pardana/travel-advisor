@@ -17,7 +17,7 @@ const Map = () => {
         defaultCenter={coordinates}
         center={coordinates}
         defaultZoom={14}
-        margin={[100, 100, 100, 100]}
+        margin={[50, 50, 50, 50]}
         options={""}
         onChange={""}
         onChildClick={""}
