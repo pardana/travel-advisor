@@ -20,7 +20,7 @@ const List = ({ places }) => {
   return (
     <div className={classes.container}>
       <Typography variant="h4">
-        Restaurants, Hotels & Attractions around you
+        Restaurant, Hotel & Attraction around you
       </Typography>
 
       <FormControl className={classes.formControl}>
